@@ -6,7 +6,7 @@ Features:
 1. FastAPI Backend
 Question-Response Mapping: Contains a set of predefined questions and responses used by the chatbot.
 
-API Endpoint: Exposes an API endpoint (/chat) for communication with the frontend. Handles HTTP POST requests.
+API Endpoint: Exposes an API endpoint (/chat) for communication with the frontend. Handles HTTP POST requests. 
 
 CORS Configuration: Configured to allow cross-origin resource sharing with the Fix-It AI Frontend.
 
