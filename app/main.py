@@ -12,7 +12,7 @@ questions_and_responses = {
 }
 
 # Configure CORS
-origins = ["http://localhost:5173"]
+origins = ["https://fix-it-ai-frontend.vercel.app"]
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
